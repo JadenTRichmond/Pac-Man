@@ -5,3 +5,4 @@ Download all files, put in one folder, run index.html on a browser, refresh to s
 ## Future Improvements
 I would like to add the availability for the user to change Pac-Man's direction of movement with a click as well as once it hits the boundaries.
 ## License Info
+Code written by Jaden Richmond using starter code from the MITxPRO full stack development bootcamp course.
